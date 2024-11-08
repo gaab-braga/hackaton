@@ -1,0 +1,11 @@
+pycryptodome
+tensorflow
+scikit-learn
+pycaret
+pandas
+scrapy
+spacy
+matplotlib
+seaborn
+plotly
+mlflow
